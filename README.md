@@ -1,8 +1,5 @@
 <html>
 <body>
-
-<h2>Simple Counter Privacy Policy</h2>
-
 <h3>Your Privacy is Important to Us</h3>
 
 <p>We understand the importance of privacy, and we've designed Simple Counter with that in mind. This privacy policy explains how we handle (or rather, don't handle) your data.</p>
